@@ -1,0 +1,121 @@
+1) Apresente uma ou mais definições utilizadas na área de IHC para as palavras:
+a) Interação
+R. Influência mutua de órgãos ou organismos inter-relacionados; ação mútua ou compartilhada entre
+dois ou mais corpos ou indivíduos.
+
+b) Interface
+R. Elemento que proporciona uma ligação física ou lógica entre dois sistemas ou partes de um
+sistema que não poderiam ser conectados diretamente.
+
+c) Acessibilidade
+R. Qualidade ou caráter do que é acessível; Facilidade na aproximação, no tratamento ou na 
+aquisição.
+
+d) Experiência do Usuário
+R. Envolve os sentimentos de uma pessoa em relação à utilização de um determinado produto, 
+sistema ou serviço.
+
+e) Usabilidade
+R. Define a facilidade com que as pessoas podem empregar uma ferramenta ou objeto a fim de 
+realizar uma tarefa específica e importante.
+
+2) Quais são os benefícios da IHC?
+R. Criação de sistemas que maximizem as habilidades humanas, sendo simples, agradável e seguro.
+Além de auxiliar na construção de sistemas voltados para usuários de forma que atenda o primeiro
+tópico.
+
+3) Quais são os aspectos desejáveis e indesejáveis da experiência do usuário?
+R. Os aspectos desejáveis são aqueles os quais o usuário percebe a praticidade, tais como a 
+utilidade, a facilidade de utilização e a eficácia do sistema. Já as indesejáveis, apesar
+da experiência do usuário ser de natureza subjetiva, são aqueles que incluem aspectos negativos
+durante a utlização do produto, como travamentos, problemas, dúvidas, entre outros.
+
+4) O que é interação humano computador?
+R. É o estudo da interação entre pessoas e computadores. É uma matéria interdisciplinar que 
+relaciona a ciência da computação, artes, design, ergonomia, psicologia, sociologia, semiótica,
+linguística, e áreas afins.
+
+5) Quais as áreas de conhecimento que possuem relação com Design de Interação?
+R. Ciência da Computação, Artes, Design, Ergonomia, Psicologia, Sociologia, Semiótica, 
+Linguística, e áreas afins.
+
+6) Quais são as vantagens e desvantagens de uma equipe multidisciplinar?
+R. Vantagens: Muitas ideias sendo geradas; Novos métodos sendo desenvolvidos; e Designs mais
+criativos e originais sendo produzidos.
+
+Desvantagens: Custos envolvidos; Dificuldades na comunicação da equipe entre si; Falhas de
+comunicação; Entre outros.
+
+7) Descreva as quatro atividades básicas do processo de design de interação.
+R. 1. Identificar necessidades e estabelecer requisitos.
+2. Desenvolver designs alternativos que preencham esses requisitos.
+3. Construir versões interativas dos designs, de maneira que possam ser comunicados e analisados.
+4. Avaliar o que está sendo construído durante o processo.
+
+8) Quem são os usuários?
+R. Normalmente ao início de um projeto deve ser feito um estudo para descobrir quem são os 
+usuários do produto interativo, percebendo suas necessidades e como o produto vai auxiliar ou
+sanar aquela necessidade. Lembrando que os usuários devem estar envolvidos no desenvolvimento
+do projeto.
+
+9) Descreva as metas de usabilidade.
+R. Ser eficaz no uso (eficácia): É uma meta bastante geral e se refere a quanto um sistema é bom
+em fazer o que se espera dele.
+Ser eficiente no uso (eficência): Se refere à maneira como o sistema auxilia os usuários na
+realização de suas tarefas.
+Ser segura no uso (segurança): Implica proteger o usuário de condições perigosas e situações
+indesejáveis.
+Ser de boa utilidade (utilidade): Refere-se À medida na qual o sistema propicia o tipo certo de
+funcionalidade, de maneira que os usuários possam realizar aquilo de que precisam ou que 
+desejam.
+Ser fácil de aprender (learnability): Refere-se a quão fácil é aprender a usar o sistema.
+Ser fácil de lembrar como se usa (memorability): Refere-se à facilidade de lembrar como utilizar
+um sistema, depois de já se ter aprendido como fazê-lo, algo especialmente importante para 
+sistemas interativos que não são utilizados com muita frequência.
+
+10) Descreva as metas decorrentes da experiência do usuário.
+R. Satisfatórios
+Agradáveis
+Divertidos
+Interessantes
+Úteis
+Motivadores
+Esticamente apreciáveis
+Incentivadores de criatividade
+Compensadores
+Emocionalmente adequados
+
+11) Descreva os princípios de usabilidade.
+R. Visibilidade: Quanto mais visíveis forem as funções mais os usuários saberão como proceder.
+Feedback: Está relacionado ao conceito de visibilidade. Se refere ao retorno de informações a
+respeito de que ação foi feita e do que foi realizado, permitindo à pessoa continuar a atividade.
+Restrições: Refere-se à determinação das formas de delimitar o tipo de interação que pode 
+ocorrer em um determinado momento.
+Mapeamento: Refere-se à relação entre os controles e os seus efeitos no mundo. 
+Consistência: Refere-se a projetar interfaces de modo que tenham operações semelhantes e que
+utilizem elementos semelhantes para a realização de tarefas similares.
+Affordance: É um termo utilizado para se referir ao atributo de um objeto que permite às pessoas
+saber como utilizá-lo. Significa "dar uma pista".
+
+
+12) Qual a diferença entre princípios e heurísticas de usabilidade?
+R. Os princípios são a parte mais teórica da usubilidade envolvendo a parte de como é feito
+o como vai ser levantado a partir do problema, já a heurística são quando estes mesmos
+princípios são aplicados em um problema prático e como a aplicação foi feita, dando
+uma estrutura para avaliação heurística daquele princípio.
+
+13) Quais são os dez princípios de usabilidade desenvolvidos por Nielsen e seu colegas?
+R. 1. Visibilidade do status do sistema;
+2. Compatibilidade do sistema com o mundo real;
+4. Controle do usuário e liberdade;
+4. Consistência e padrões;
+5. Ajuda os usuários a reconhecer, diagnosticar e recuperar-se de erros;
+6. Prevenção de erros;
+7. Reconhecimento eme vez de memorização;
+8. Flexibilidade e eficiência de uso;
+9. Estética e design minimalista;
+10. Ajuda e documentação.
+
+14) Avalie a usabilidade de um site através da heurísticas de usabilidade.
+
+

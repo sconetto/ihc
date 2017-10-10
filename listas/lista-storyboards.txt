@@ -1,0 +1,21 @@
+1) Quais são os benefícios de fazer um storyboard?
+R. Quando utilizado juntamente com um cenário, o storyboard traz mais detalhes ao cenário
+escrito e oferece aos stakeholders uma oportunidade de simular uma interação com o produto
+mediante a observação desse cenário.
+
+2) Cite um exemplo de erro comum ao fazer o desing (projeto) de interface?
+R.  Escolha da cor errada, o contraste ruim entre essas, é um dos erros mais comuns no design de
+interface, além do caso da construção de protótipos de alta fidelidade onde os designers focam
+mais na qualidade do protótipo do que na ideia da interface.
+
+3) Em que o desing (projeto) de interface deve-se focar?
+O design deve focar-se no usuário e na sua experiência com o produto, logo é de suma
+importância tê-lo envolvido durante o processo de design, tanto que o storyboard e os 
+protótipos são uma ferramente que auxilia a inserção do usuário nesta construção.
+
+4) O que um storyboard deve apresentar?
+Deve mostrar uma série de desenhos mostrando como um usuário pode progredir em uma tarefa 
+utilizando o produto que está sendo desenvolvido, podendo ser uma série de telas esboçadas ou 
+uma série de cenas mostrando como um usuário pode desempenhar determinada tarefa utilizando 
+um produto.
+

@@ -1,0 +1,79 @@
+1) Qual a diferença entre o design conceitual e físico?
+R. O primeiro concentra-se no desenvolvimento de um modelo conceitual que entenda o que o
+produto irá fazer e como ele irá se comportar, e o segundo foca nos detalhes do design, como
+as estruturas de tela e menu, ícones e gráficos.
+
+2) Quais são as duas circunstâncias distintas para o design?
+R. Uma em que você está começando do zero e outra em que está modificando um produto existente.
+
+3) O que é um protótipo?
+R. Um protótipo é uma manifestação de um design que permite aos stakeholders interagirem com
+ele e explorarem sua adequação; ele é limitado na medida em que um protótipo normalmente
+enfatiza um conjunto de características do produto e não outras.
+
+4) Apresente os exemplos de protótipo do PalmPilot e da Impressora a Laser.
+R. O PalmPilot estava sendo desenvolvido por Jeff Hawkin, ele talhou um pedaço de madeira
+um protótipo com o tamanho e a forma do dispositivo que tinha imaginado. Ele costumava carregar
+esse pedaço de madeira por onde adanva e simulava inserir informações nele, apenas para sentir
+como seria possuir tal dispositivo. 
+
+5) Para quais fim serve um protótipo?
+R. Os protótipos são úteis na discussão de ideias com os stakeholders, sendo um dispositivo de
+comunicação entre os membros da equipe e uma maneira eficaz de designers explirarem ideias de
+design.
+
+6) O que são protótipos de baixa-fidelidade?
+R. Um protótipo de baixa fidelidade é aquele que não se parece muito com o produto final.
+Por exemplo, ele utiliza materiais muito diferentes da versão final pretendida, como papel e 
+cartolina no lgar de telas eletrônicas e metal.
+
+7) Quais as vantagens de utilizar protótipos de baixa-fidelidade?
+R. Protótipos de baixa fidelidade são úteis porque tendem a ser simples, barato e de rápida
+produção. Isso também significa que são simples, baratos e rápidos de serem modificados e, 
+portanto, dão suporte a expliração de alternativas de design e ideias.
+
+8) O que é um storyboard?
+R. Um storyboar consiste em uma série de esboços que mostram como um usuário pode progredir em
+uma tarefa usando o produto em desenvolvimento.
+
+9) O que é e para que serve prototipação com fichas?
+R. É um meio de prototipação de baixa-fidelidade onde é usado fichas (cartões), é uma maneira
+bem-sucedida e simples de se prototipar uma interação, utilizada comumente no desenvolvimento
+de sites.
+
+10) O que é prototipação de alta-fidelidade?
+R. A prototipação de alta fidelidade utiliza materiais que se espera que estejam no produto
+final e produz um protótipo que se parece muito mais com ele. Por exemplo, um protótipo de um
+software desenvolvido em Visual Basic é de maior fidelidade do que uma maquete de pael;
+
+11) Quais são as vantagens e desvantagens da utilização de protótipos de baixa e altafidelidade?
+Protótipos de baixa-fidelidade:
+Vantagens: Custo mais baixo de desenvolvimento; Avalia múltiplos conceitos de design; 
+Instrumento de comunicação útil; Aborda questão de layout de tela; Útil para identificação de
+requisitos de mercado; Proof-of-concept (demonstrações de que o conceito funciona).
+Desvantagens: Verificação limitada de erros; Especificação pobre em detalhe do código; Mais 
+facilitado; Utilidade limitada após estabelecimento dos requisitos; Utilidade para testes de
+usabilidade limitada.
+
+Protótipos de alta-fidelidade:
+Vantagens: Funcionalidade completa; Totalmente interativo; Dirigido aos usuários; Define 
+claramente o esquema de navegação; Uso para exploração e teste; Mesma aparência do produto final;
+Sereve como uma especificação viva; Ferramenta de venda e marketing.
+Desvantagens: Limitações de fluxo e navegação; Desenvolvimento mais caro; Sua criação demanda
+tempo; Ineficiente para designs proof-of-concept; Não serve para coleta de requisitos.
+
+
+12) O que é prototipação horizontal e vertical?
+R. A prototipação horizontal consiste em montar uma interface completa em termos de elementos, 
+permitindo uma visão geral do usuário por todo o sistema, assim como uma pessoa observa o 
+horizonte, em um protótipo horizontal, o usuário obtém uma visão geral de tudo.
+A Prototipação Vertical é focada nas funcionalidades. Dessa forma, um protótipo do sistema pode 
+ser reduzido a um módulo isolado, onde o usuário poderá ver em detalhes um pedaço limitado 
+do sistema.
+
+13) O que é prototipação evolutiva e prototipação descartável?
+R. Na prototipação evolutiva o protótipo evolui para o produto final, exige testes e tempo mas
+permite a reutilização.
+Na prototipação descartável, protótipos são pontos de apoio e então descartados, são rápidos,
+porém esforço excessivo se torna desperdício.
+

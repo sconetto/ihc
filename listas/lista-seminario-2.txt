@@ -1,0 +1,98 @@
+- HTML 5
+1) O que é HTML 5?
+R. HTML5 (Hypertext Markup Language, versão 5) é uma linguagem para estruturação e 
+apresentação de conteúdo para a World Wide Web e é uma tecnologia chave da Internet 
+originalmente proposto por Opera Software. É a quinta versão da linguagem HTML.
+
+2) O que é o W3C? O que o W3C faz? Cite exemplos.
+O World Wide Web Consortium (W3C) é a principal organização de padronização da World Wide Web.
+Consiste em um consórcio internacional com quase 400 membros, agrega empresas, órgãos 
+governamentais e organizações independentes com a finalidade de estabelecer padrões para a 
+criação e a interpretação de conteúdos para a Web.
+Padrões como o CSS (Cascade Style Sheets) e o SVG (Scalable Vector Graphics) são projetos
+da W3C.
+
+3) Para que serve o parâmetro alt na chamada das imagens no HTML
+O alt representa para aquela imagem um texto alternativo que explica a imagem.
+
+4) Quais são os novos elementos introduzidos pelo HTML5? Explique cada um deles.
+
+
+- Google Analytics
+1) O que é o google analytics?
+Google Analytics é um serviço gratuito e é oferecido pela Google no qual, ao ativar-se o 
+serviço por intermédio de uma conta do Google, e ao cadastrar-se um site recebe-se um código 
+para ser inserido na página cadastrada e, a cada exibição, estatísticas de visitação são 
+enviadas ao sistema e apresentadas ao dono do site.
+
+2) Qual a vantagem de usar google analytics?
+Com o Google Analytics é possível ter informações sobre público, acessos, conteúdo mais visto
+e diversas outras que auxiliam o dono do site com o seu objetivo acerca do site.
+
+3) Cite alguns exemplos de informações que o google analytcs pode gerar para um
+site?
+- Conteúdo de análise
+- Análise de redes sociais
+- Análise de conversão
+- Análise de publicidade
+
+4) Como o google analytics pode auxiliar na avaliação de usabilidade de um site?
+Com as informações recebidas pelo Google Analytics o dono do site pode tomar ações que façam
+o seu site ser mais atrativo para seus usuários, pois com as informações é possível 
+levantar causas para problemas de acesso, conversão, publicidade e etc.
+
+- Infografia. Conceito e prática
+1) O que é infografia?
+Infografia ou infográficos são um tipo de representação visual gráfica, que ajuda a apresentar
+dados e explicar questões complexas, conduzindo a uma melhor compreensão.
+
+2) Em quais desenhos gráficos fundamentais são configurados os infográficos? Explique
+cada um deles.
+- Mapas – as informações estão interligadas a fronteiras, formas e áreas geográficas. 
+- Séries  de  tempo  –  lida  com  a  ordenação  natural  de  escalas  de  tempo.  Permite 
+comparações  entre  momentos  da  escala  escolhida  –  segundos,  minutos,  horas,  dias, 
+semanas, meses, etc.
+- Narrativos de espaço-tempo – explanam acontecimentos que se movem no espaço (bi ou 
+tridimensional) e no tempo.
+- Gráficos relacionais – consiste em relacionar duas variáveis em um mesmo gráfico, com 
+plano cartesiano (x e y) ou medidas abstratas.
+
+
+Design de informação em interfaces digitais. Origens, definições e fundamentos
+1) O que é Design de informação?
+Design de informação ou infodesign, é uma área do design gráfico que lida detalhadamente com o
+projeto da informação visual. Seu objetivo principal é melhorar a forma como o usuário 
+adquire informação em sistemas de comunicação analógicos e digitais.
+
+2) Quais são os locais onde o design de informação pode ser aplicado?
+O design de informação pode ser usado a partir de várias vertentes e áreas do conhecimento, 
+como ilustração, fotografia, cartografia, design gráfico, industrial, arquitetura e 
+psicologia experimental entre outros.
+
+3)Quais são os objetivos do design de informação?
+Seu objetivo principal é melhorar a forma como o usuário adquire informação em sistemas de
+comunicação analógicos e digitais.
+
+- Projeto Arquitetural e de Navegação de WebApp (Livro Engenharia de Software: Uma
+abordagem Profissional do Roger Pressman, Sétima Edição, Capítulo 13). Apresente
+um exemplo prático do conteúdo na apresentação.
+1) O que é projeto de webapp?
+
+2) Quais são os objetivos do projeto de webapp?
+
+
+3) Quais são os objetivos de uma interface para WebApp?
+
+
+4) Quais são os mecanismos de interação de uma interface?
+
+
+5) O que é o projeto arquitetural?
+
+
+6) Quais as principais estruturas da arquitetura de conteúdo? Explique cada uma delas.
+
+
+7) O que é semântica de navegação e a sintaxe de navegação
+
+

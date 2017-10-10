@@ -1,0 +1,54 @@
+1) O que é prototipação em papel?
+R. Método que avalia a usuabilidade de um design de IHC representado em papel, através de
+simulações de uso com a participação de potenciais usuários.
+É um modo rápido e barato de identificar problemas de usabilidade com a participaão dos usuários,
+antes mesmo de construir uma solução executável.
+
+2) Quais são as tarefas que devem ser realizadas na atividade de preparação da
+prototipação em papel?
+R. Definir tarefas para os participantes executarem.
+Definir o perfil dos participantes e recrutá-los.
+Criar protótipos em papel da interface para executar as tarefas.
+Executar um teste-piloto.
+
+3) Quais são as tarefas que devem ser realizadas na atividade de coleta e interpretação
+da prototipação em papel?
+R. Cada usuário deve executar as tarefas propostas interagindo com os protótipos em papel, 
+mediado pelo avaliador
+Avaliador deve: Listar os problemas encontrados; Refinar os protótipos em papel para resolver
+os problemas mais simples.
+
+4) Quais são as tarefas que devem ser realizadas na atividade de consolidação dos
+resultados da prototipação em papel?
+R. Priorizar a correção dos problemas não resolvidos
+Sugerir correções.
+
+5) Quais são as tarefas que devem ser realizadas na atividade de relato dos resultados
+da prototipação em papel?
+R. Relatar problemas encontrados e sugestões de correção.
+
+6) Qual a quantidade de avaliadores devem estar presentes na atividade de coleta de
+dados da prototipação em papel?
+R. Não há um número fechado mas deve ser comunicado aos interessados o número e o perfil dos
+avaliadores (O(s) que atua(m) como "computador" e o(s) que observa(m) e registra(m) a 
+experiência de uso simulada).
+
+7) Durante a simulação, na atividade de coleta de dados da prototipação em papel,
+quais aspectos o observador deve ficar atento?
+R. A erros que ocorram ou dúvidas, em maior parte em oportunidades de melhora no prototipo
+ou acontecimentos correlacionados.
+
+8)Na atividade de consolidação dos resultados da prototipação em papel, o que os
+avaliadores fazem?
+R. Eles priorizam a correção de problemas não resolvidos e devem sugerir correções.
+
+9) Na atividade de relato dos resultados da prototipação em papel, o que os avaliadores
+devem informar?
+R. Os objetivos da avaliação;
+Uma breve descrição do método de prototipação em papel.
+O número e o perfil de avaliadores e dos participantes;
+As tarefas executadas pelos participantes;
+Uma lista de problemas de usabilidade corrigidos durante os ciclos de avaliação e reprojeto;
+Uma lista dos problemas de usabilidade ainda não corrigidos;
+Indicações de partes do sistema que podem ser mais bem elaboradas.
+

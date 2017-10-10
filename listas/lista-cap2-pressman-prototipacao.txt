@@ -1,0 +1,46 @@
+1) Cite e explique quais situações o paradigma de prototipação pode ser a melhor
+escolha de abordagem?
+R. Em casos onde o cliente define uma série de objetivos gerais para o software, mas não
+identifica, detalhadamente, os requisitos para funções e recursos. Ou em casos, o 
+desenvolvedor encontra-se inseguro quanto à eficiência de um algoritmo, quanto à 
+adaptabilidade de um sistema operacional ou quanto à forma em que deva ocorrer a interação
+homem/máquina, nesses casos o paradigma de prototipação pode ser a melhor escolha de abordagem.
+
+2) Por que a prototipação é mais comumente utilizada como uma técnica passível de
+ser implementada no contexto de qualquer um dos modelos de processo?
+R. Pois, independentemente da forma como é aplicado, quando os requisitos estão obscuros, o 
+paradigma da prototipação auxilia os interessados a compreender melhor o que está para ser
+construído. 
+
+3) O que fazer com o protótipo quando este já serviu ao seu propósito?
+R. Segundo Brooks recomenda-se que o protótipo seja como "o primeiro sistema" e após servir 
+seu propósito ele deve ser descartado, porém, essa pode ser uma visão ideializada, tendo em
+vista que alguns protótipos sejam construídos como "descartáveis", outros são evolucionários,
+no sentido de que evoluem lentamente até se transformar no sistema real.
+
+4) O que são protótipos descartáveis e protótipos evolucionários?
+R. Os protótipos descartáveis, como o próprio nome diz, após servirem ao seu propósito eles
+são descartados, enquanto os protótipos evolucionários continuam sendo usados e evoluindo
+até se tornarem o sistema real.
+
+5) Por que os interessados e os engenheiro de software gostam do paradigma da
+prototipação?
+R. Os usuários podem ter uma ideia prévia do sistema final, ao passo que os desenvolvedores
+passam a desenvolver algo imediatamente.
+
+6) Por quais razões a prototipação pode ser problemática?
+R. Pelas seguintes razões:
+Os interessados enxergam o que parece ser uma versão operacional do software, ignorando que o
+protótipo é mantido de forma não organizada e que, na pressa de fazer com que ele se torne
+operacional, não se considera a qualidade global do software, nem sua manutenção a longo prazo.
+O engenheiro de software, com frequência, assume comprimissos de implementação para conseguir
+que o protótipo entre em operação rapidamente. Um sistema operacional ou linguagem de
+programação inapropriados podem ser utilizados simplesmente porque se encontram à disposição
+e são conhecidos.
+
+7) Como o paradigma de prototipação pode ser efetivo para a engenharia de software?
+R. O seguredo é definir as regras do jogo logo no ínicio; isso significa que todos os envolvidos
+devem concordar que o protótipo é construído para servir como um mecanismo para definição de 
+requisitos. Portanto, será descartado (pelo menos em parte) e o software final é arquitetado
+visando qualidade.
+

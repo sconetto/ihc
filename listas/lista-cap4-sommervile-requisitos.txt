@@ -1,0 +1,31 @@
+1) O que são requisitos funcionais?
+R. Os requisitos funcionais de um sistema descrevem o que ele deve fazer. Eles dependem do tipo de
+software a ser desenvolvido, de quem são seus possíveis usuários e da abordagem geral adotada
+pela organização ao escrever os requisitos.
+
+2) O que são requisitos não funcionais?
+R. Os requisitos não funcionais, como o nome sugere, são requisitos que não estão diretamente
+relacionados com os serviçooes específicos oferecidos pelo sistema a seus usuários. Eles podem
+estar relacionados às propriedades emergentes do sistema, como confiabilidade, tempo de resposta e
+ocupação de área. Uma alternativa a esse cenário seria os requisitos definirem restrições
+sobre a implementação do sistema, como as capacidades dos dispositivos de E/S ou as
+representações de dados usadas na interfaces com outros sistemas.
+
+3) Explique o que são requisitos de produto, organizacionais e externos.
+R. Requisitos de produto: Esses requisitos especificam ou restringem o comportamento do software.
+Exemplos incluem os requisitos de desempenho quanto à rapidez com que o sistema deve executar
+e quanto memória ele requer, os requisitos de confiabilidade que estabelecem a taxa aceitável
+de falhas, os requisitos de proteção e os requisitos de usabilidade.
+Requisitos organizacionais: Esses são os requisitos gerais de sistemas derivados das políticas
+e procedimentos da organização do cliente e do desenvolvedor. Exemplos incluem os requisitos do
+processo operacional, que definem como o sistema será usado, os requisitos do processo de 
+desenvolvimento que especificam a linguagem de programação.
+Requisitos externos: Esse tipo abrangem todos os requisitos que derivam de fatores externos ao
+sistema e seu processo de desenvolvimento.
+
+4) Sempre que possível, como os requisitos não funcionais devem ser escritos? Por
+quê? Citê exemplos.
+R. Sim, sempre que possível, os requisitos não funcionais devem ser escritos quantitativamente,
+para que possam ser objetivamente testados. Para que não ocorram problemas e deixem de ser
+'testáveis', que não deixem margem para interpretações diversas.
+

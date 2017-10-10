@@ -1,0 +1,49 @@
+1) Qual a relação entre emoções e IHC apresentado na introdução do artigo?
+R. As autoras explicitam que as emoções são inerentes a toda interação dos humanos, logo há a relação,
+e um estudo, entre as emoções provocadas na interação com interfaces de sistema computacionais
+e com isso é possível desenvolver soluções de interface de usuários melhores.
+
+2) Explique o círculo de Scherer em “What are emotions? And how can they be
+measured?” na revistia Social science information em 2005?
+R. O círculo de Scherer aponta emoções que abragem os componentes emocionais e que prepraram o
+organismo para uma ação. A adoção deste modelo tem como objetivo auxiliar o designer a 
+compreender e avaliar o impacto emocional do usuário, identificando conjuntos de emoções que 
+podem desencadear reações.
+
+3) Explique e dê exemplos sobre a expressão “colour emotion”.
+R. Se refere às emoções evocadas tanto por cores quanto por combinações de cores. Também pode
+ser definida como sendo a avaliação da resposta emocional de cores. As color emotions podem
+ser exemplificadas pelas seguintes classificações: limpo-sujo, pesado-leve,
+masculino-feminino, moderno-clássico, transparente-turvo, fraco-forte, entre outras.
+
+4) Quais são as “colour emotion” das cores amarela, azul, branca, preta e vermelha.
+R. Segundo Silveira o amarelo causa tensão e insegurança; azul traz segurança, conforto e paz;
+branco gera paz e tranquilidade; preto estimula tristeza e poder; e vermelho evoca alegria,
+apreensão e atenção.
+
+5) Explique o círculo de Cores de Bianchi.
+R. O círculo de cores de Bianchi é uma classificação extendida do círculo de Scherer onde 
+foi levaado em consideração a Valência das cores, a Excitação e o Sentimento de Controle,
+a partir de estudos acerca do estado da arte, onde foi possível levantar classificações 
+e mapear em combinações de domínio a fim de construir um círculo que represente uma média
+da evocação de emoção atrelada a cada cor.
+
+
+6) Explique as limitações do círculo de Cores de Bianchi.
+R. Algumas da limitações são:
+Emoções não encontradas no referencial teórico adotado, em alguns referenciais as emoções 
+não estavam no espaço emocional semântico de Scherer, estes foram substituídos por sinônimos.
+Questão cultural, apesar da base em artigos internacionais, que fizeram avaliações com usuários,
+as diferenças culturais encontradas no uso da cor para elicitar emoções não foram aprofundadas
+no trabalho.
+Contexto, ainda que as cores e seus significados, os quais podem modificar as emoções evocadas,
+sejam dependentes de contexto, este aspecto também não foi aprofundado.
+Estudo parcial, o artigo estuda cores isoladamente, apesar de elas aparecerem no design somadas
+a outros elementos de interface de usuário.
+
+7) Escolha dois sentimentos que você deseja que seu usuário sinto após utilizar o seu
+site. Em seguida, verifique as cores correspondente a essas emoções. Utilizando uma
+ferramenta paleta de cores, apresente um layout com essas cores. Apresente os
+sentimentos selecionados, as cores correspondentes a esses sentimentos e o layout
+gerado.
+
